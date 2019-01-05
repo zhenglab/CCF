@@ -3,11 +3,11 @@ An imaging-inspired no-reference underwater color image quality assessment metri
 
 # Usage:
 
-1. Load the image, for example
-im      = imread('1.bmp');
+1. Load the image, for example:
+`im = imread('1.bmp');`
 
 2. Call this function to calculate the quality score:
-quality = CCF_main(im)
+`quality = CCF_main(im)`
 
 
 # Cite
